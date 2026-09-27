@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Mohammed Nur Nabi 👋
+IGCSE tutor and founder of NurNabi Academy. I help students around the world prepare for Cambridge IGCSE exams with clear, exam-focused lessons.
 
-<!--
-**nurnabiacademy/nurnabiacademy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 What I teach
+Subject	Syllabus
+Mathematics	0580
+Physics	0625
+Chemistry	0620
+Biology	0610
+🎥 Free video lessons
+Topic explanations, exam technique and worked exam-style questions on my YouTube channel:
 
-Here are some ideas to get you started:
+▶ NurNabi Academy on YouTube
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ What I build
+I build small tools that make teaching and outreach easier, such as:
+
+Revision decks and worked-solution PDFs generated from question banks
+An automated weekly lead finder that spots students asking for IGCSE help online and drafts helpful replies
+🤝 Connect with me
+YouTube LinkedIn Reddit Email
+
+📍 Saudi Arabia (UTC+3) · Teaching students worldwide, online
